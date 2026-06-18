@@ -72,3 +72,4 @@ Parlay-modulen ligger i `src/parlay/`:
 - `parlayGenerator.js`: bygger Safe, Balanced, High Risk, Player Props, Same Game, AI Value og VM 2026-parlays.
 
 Historikkfeltene er placeholders frem til ekte statistikkilde kobles på, men dataformen er lagt opp for produksjonsintegrasjon.
+
