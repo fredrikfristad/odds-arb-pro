@@ -73,4 +73,5 @@ Parlay-modulen ligger i `src/parlay/`:
 
 Historikkfeltene er placeholders frem til ekte statistikkilde kobles på, men dataformen er lagt opp for produksjonsintegrasjon.
 
-redeploy trigger
+Redeploy trigger
+
